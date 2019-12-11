@@ -1,0 +1,22 @@
+{
+  "name": "gs_convert2_json",
+  "version": "1.0.0",
+  "description": "A Tool",
+  "main": "index.js",
+  "dependencies": {
+    "node-xlsx": "^0.15.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "keywords": [
+    "gs",
+    "xlsx",
+    "json"
+  ],
+  "author": {
+    "name": "wang1dot0"
+  },
+  "license": "MIT"
+}
